@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>gallery</title>
+   	<link>.</link>
+   	
+        
+        
+        <item>
+            <title>M31_Master_V2</title>
+            <link>slides/M31_Master_V2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M31
+</description>
+            <media:description type="html">M31
+</media:description>
+            
+            <media:thumbnail url="thumbs/M31_Master_V2.jpg" width="140" height="92"/>
+            <media:content url="slides/M31_Master_V2.jpg" width="749" height="496"/>
+            
+            <guid isPermaLink="false">slides/M31_Master_V2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M33_Master_V1</title>
+            <link>slides/M33_Master_V1.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M33</description>
+            <media:description type="html">M33</media:description>
+            
+            <media:thumbnail url="thumbs/M33_Master_V1.jpg" width="140" height="93"/>
+            <media:content url="slides/M33_Master_V1.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/M33_Master_V1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>m45_master</title>
+            <link>slides/m45_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M45</description>
+            <media:description type="html">M45</media:description>
+            
+            <media:thumbnail url="thumbs/m45_master.jpg" width="140" height="93"/>
+            <media:content url="slides/m45_master.jpg" width="750" height="499"/>
+            
+            <guid isPermaLink="false">slides/m45_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ic434RGBmaster_filtered</title>
+            <link>slides/ic434RGBmaster_filtered.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>IC434</description>
+            <media:description type="html">IC434</media:description>
+            
+            <media:thumbnail url="thumbs/ic434RGBmaster_filtered.jpg" width="140" height="102"/>
+            <media:content url="slides/ic434RGBmaster_filtered.jpg" width="750" height="549"/>
+            
+            <guid isPermaLink="false">slides/ic434RGBmaster_filtered.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M20HaGB_master_V2</title>
+            <link>slides/M20HaGB_master_V2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M20</description>
+            <media:description type="html">M20</media:description>
+            
+            <media:thumbnail url="thumbs/M20HaGB_master_V2.jpg" width="140" height="104"/>
+            <media:content url="slides/M20HaGB_master_V2.jpg" width="696" height="520"/>
+            
+            <guid isPermaLink="false">slides/M20HaGB_master_V2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nc6888Master</title>
+            <link>slides/nc6888Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC 6888</description>
+            <media:description type="html">NGC 6888</media:description>
+            
+            <media:thumbnail url="thumbs/nc6888Master.jpg" width="140" height="109"/>
+            <media:content url="slides/nc6888Master.jpg" width="750" height="587"/>
+            
+            <guid isPermaLink="false">slides/nc6888Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc7293RGBMaster</title>
+            <link>slides/ngc7293RGBMaster.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC7293</description>
+            <media:description type="html">NGC7293</media:description>
+            
+            <media:thumbnail url="thumbs/ngc7293RGBMaster.jpg" width="140" height="108"/>
+            <media:content url="slides/ngc7293RGBMaster.jpg" width="750" height="579"/>
+            
+            <guid isPermaLink="false">slides/ngc7293RGBMaster.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M27_Master</title>
+            <link>slides/M27_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M27</description>
+            <media:description type="html">M27</media:description>
+            
+            <media:thumbnail url="thumbs/M27_Master.jpg" width="140" height="93"/>
+            <media:content url="slides/M27_Master.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/M27_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC1514LRGB_Master</title>
+            <link>slides/NGC1514LRGB_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC 1514</description>
+            <media:description type="html">NGC 1514</media:description>
+            
+            <media:thumbnail url="thumbs/NGC1514LRGB_Master.jpg" width="140" height="104"/>
+            <media:content url="slides/NGC1514LRGB_Master.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/NGC1514LRGB_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M57_Master</title>
+            <link>slides/M57_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M57</description>
+            <media:description type="html">M57</media:description>
+            
+            <media:thumbnail url="thumbs/M57_Master.jpg" width="140" height="92"/>
+            <media:content url="slides/M57_Master.jpg" width="750" height="495"/>
+            
+            <guid isPermaLink="false">slides/M57_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>IC5146a_Master_2</title>
+            <link>slides/IC5146a_Master_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>IC5146 Cocoon</description>
+            <media:description type="html">IC5146 Cocoon</media:description>
+            
+            <media:thumbnail url="thumbs/IC5146a_Master_2.jpg" width="140" height="92"/>
+            <media:content url="slides/IC5146a_Master_2.jpg" width="750" height="495"/>
+            
+            <guid isPermaLink="false">slides/IC5146a_Master_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC6992_Master_V2</title>
+            <link>slides/NGC6992_Master_V2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC 6992 Cirrus</description>
+            <media:description type="html">NGC 6992 Cirrus</media:description>
+            
+            <media:thumbnail url="thumbs/NGC6992_Master_V2.jpg" width="140" height="93"/>
+            <media:content url="slides/NGC6992_Master_V2.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/NGC6992_Master_V2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc7635haMaster_Color</title>
+            <link>slides/ngc7635haMaster_Color.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC7635</description>
+            <media:description type="html">NGC7635</media:description>
+            
+            <media:thumbnail url="thumbs/ngc7635haMaster_Color.jpg" width="140" height="102"/>
+            <media:content url="slides/ngc7635haMaster_Color.jpg" width="750" height="548"/>
+            
+            <guid isPermaLink="false">slides/ngc7635haMaster_Color.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc2244master_3</title>
+            <link>slides/ngc2244master_3.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC 2244</description>
+            <media:description type="html">NGC 2244</media:description>
+            
+            <media:thumbnail url="thumbs/ngc2244master_3.jpg" width="140" height="92"/>
+            <media:content url="slides/ngc2244master_3.jpg" width="749" height="495"/>
+            
+            <guid isPermaLink="false">slides/ngc2244master_3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc2244HaMaster_Version3</title>
+            <link>slides/ngc2244HaMaster_Version3.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC2244</description>
+            <media:description type="html">NGC2244</media:description>
+            
+            <media:thumbnail url="thumbs/ngc2244HaMaster_Version3.jpg" width="140" height="104"/>
+            <media:content url="slides/ngc2244HaMaster_Version3.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/ngc2244HaMaster_Version3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc2024HaMaster</title>
+            <link>slides/ngc2024HaMaster.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC2024</description>
+            <media:description type="html">NGC2024</media:description>
+            
+            <media:thumbnail url="thumbs/ngc2024HaMaster.jpg" width="140" height="102"/>
+            <media:content url="slides/ngc2024HaMaster.jpg" width="750" height="551"/>
+            
+            <guid isPermaLink="false">slides/ngc2024HaMaster.jpg</guid>
+        </item>
+        
+        <item>
+            <title>IC1318_Master_mit_Lum</title>
+            <link>slides/IC1318_Master_mit_Lum.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>IC 1318           Dobesberger/Lackinger</description>
+            <media:description type="html">IC 1318           Dobesberger/Lackinger</media:description>
+            
+            <media:thumbnail url="thumbs/IC1318_Master_mit_Lum.jpg" width="140" height="92"/>
+            <media:content url="slides/IC1318_Master_mit_Lum.jpg" width="750" height="496"/>
+            
+            <guid isPermaLink="false">slides/IC1318_Master_mit_Lum.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ic405a_Master_2</title>
+            <link>slides/ic405a_Master_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>IC405</description>
+            <media:description type="html">IC405</media:description>
+            
+            <media:thumbnail url="thumbs/ic405a_Master_2.jpg" width="140" height="102"/>
+            <media:content url="slides/ic405a_Master_2.jpg" width="750" height="548"/>
+            
+            <guid isPermaLink="false">slides/ic405a_Master_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M16Master_4RGB</title>
+            <link>slides/M16Master_4RGB.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M16</description>
+            <media:description type="html">M16</media:description>
+            
+            <media:thumbnail url="thumbs/M16Master_4RGB.jpg" width="140" height="104"/>
+            <media:content url="slides/M16Master_4RGB.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M16Master_4RGB.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M8_master_1</title>
+            <link>slides/M8_master_1.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M8</description>
+            <media:description type="html">M8</media:description>
+            
+            <media:thumbnail url="thumbs/M8_master_1.jpg" width="140" height="95"/>
+            <media:content url="slides/M8_master_1.jpg" width="750" height="513"/>
+            
+            <guid isPermaLink="false">slides/M8_master_1.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M17haMaster_Color</title>
+            <link>slides/M17haMaster_Color.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M17</description>
+            <media:description type="html">M17</media:description>
+            
+            <media:thumbnail url="thumbs/M17haMaster_Color.jpg" width="140" height="104"/>
+            <media:content url="slides/M17haMaster_Color.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M17haMaster_Color.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc7000ahamasterColor</title>
+            <link>slides/ngc7000ahamasterColor.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC7000</description>
+            <media:description type="html">NGC7000</media:description>
+            
+            <media:thumbnail url="thumbs/ngc7000ahamasterColor.jpg" width="140" height="104"/>
+            <media:content url="slides/ngc7000ahamasterColor.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/ngc7000ahamasterColor.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc1499Master</title>
+            <link>slides/ngc1499Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC1499</description>
+            <media:description type="html">NGC1499</media:description>
+            
+            <media:thumbnail url="thumbs/ngc1499Master.jpg" width="140" height="92"/>
+            <media:content url="slides/ngc1499Master.jpg" width="749" height="497"/>
+            
+            <guid isPermaLink="false">slides/ngc1499Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ic410_Master_2</title>
+            <link>slides/ic410_Master_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>IC410</description>
+            <media:description type="html">IC410</media:description>
+            
+            <media:thumbnail url="thumbs/ic410_Master_2.jpg" width="140" height="102"/>
+            <media:content url="slides/ic410_Master_2.jpg" width="750" height="547"/>
+            
+            <guid isPermaLink="false">slides/ic410_Master_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>IC443_master</title>
+            <link>slides/IC443_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>IC443</description>
+            <media:description type="html">IC443</media:description>
+            
+            <media:thumbnail url="thumbs/IC443_master.jpg" width="140" height="101"/>
+            <media:content url="slides/IC443_master.jpg" width="750" height="542"/>
+            
+            <guid isPermaLink="false">slides/IC443_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc2264_master</title>
+            <link>slides/ngc2264_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC2264</description>
+            <media:description type="html">NGC2264</media:description>
+            
+            <media:thumbnail url="thumbs/ngc2264_master.jpg" width="140" height="99"/>
+            <media:content url="slides/ngc2264_master.jpg" width="750" height="533"/>
+            
+            <guid isPermaLink="false">slides/ngc2264_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M42_90_Master_V2</title>
+            <link>slides/M42_90_Master_V2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M42</description>
+            <media:description type="html">M42</media:description>
+            
+            <media:thumbnail url="thumbs/M42_90_Master_V2.jpg" width="140" height="91"/>
+            <media:content url="slides/M42_90_Master_V2.jpg" width="750" height="488"/>
+            
+            <guid isPermaLink="false">slides/M42_90_Master_V2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M42_master</title>
+            <link>slides/M42_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M42</description>
+            <media:description type="html">M42</media:description>
+            
+            <media:thumbnail url="thumbs/M42_master.jpg" width="140" height="115"/>
+            <media:content url="slides/M42_master.jpg" width="750" height="617"/>
+            
+            <guid isPermaLink="false">slides/M42_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>vdb142ahamaster_2</title>
+            <link>slides/vdb142ahamaster_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>vdB142</description>
+            <media:description type="html">vdB142</media:description>
+            
+            <media:thumbnail url="thumbs/vdb142ahamaster_2.jpg" width="140" height="104"/>
+            <media:content url="slides/vdb142ahamaster_2.jpg" width="696" height="520"/>
+            
+            <guid isPermaLink="false">slides/vdb142ahamaster_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M13_10s_master</title>
+            <link>slides/M13_10s_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M13</description>
+            <media:description type="html">M13</media:description>
+            
+            <media:thumbnail url="thumbs/M13_10s_master.jpg" width="140" height="98"/>
+            <media:content url="slides/M13_10s_master.jpg" width="750" height="528"/>
+            
+            <guid isPermaLink="false">slides/M13_10s_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M5_masterV2</title>
+            <link>slides/M5_masterV2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M5</description>
+            <media:description type="html">M5</media:description>
+            
+            <media:thumbnail url="thumbs/M5_masterV2.jpg" width="140" height="110"/>
+            <media:content url="slides/M5_masterV2.jpg" width="750" height="591"/>
+            
+            <guid isPermaLink="false">slides/M5_masterV2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M15Lmaster2</title>
+            <link>slides/M15Lmaster2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M15</description>
+            <media:description type="html">M15</media:description>
+            
+            <media:thumbnail url="thumbs/M15Lmaster2.jpg" width="140" height="106"/>
+            <media:content url="slides/M15Lmaster2.jpg" width="750" height="572"/>
+            
+            <guid isPermaLink="false">slides/M15Lmaster2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M2Lmaster21</title>
+            <link>slides/M2Lmaster21.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M2</description>
+            <media:description type="html">M2</media:description>
+            
+            <media:thumbnail url="thumbs/M2Lmaster21.jpg" width="140" height="104"/>
+            <media:content url="slides/M2Lmaster21.jpg" width="750" height="562"/>
+            
+            <guid isPermaLink="false">slides/M2Lmaster21.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M71_001</title>
+            <link>slides/M71_001.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M71</description>
+            <media:description type="html">M71</media:description>
+            
+            <media:thumbnail url="thumbs/M71_001.jpg" width="140" height="104"/>
+            <media:content url="slides/M71_001.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M71_001.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M56Lmaster_2</title>
+            <link>slides/M56Lmaster_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M56</description>
+            <media:description type="html">M56</media:description>
+            
+            <media:thumbnail url="thumbs/M56Lmaster_2.jpg" width="140" height="104"/>
+            <media:content url="slides/M56Lmaster_2.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M56Lmaster_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M1RGB_master</title>
+            <link>slides/M1RGB_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M1</description>
+            <media:description type="html">M1</media:description>
+            
+            <media:thumbnail url="thumbs/M1RGB_master.jpg" width="140" height="101"/>
+            <media:content url="slides/M1RGB_master.jpg" width="570" height="412"/>
+            
+            <guid isPermaLink="false">slides/M1RGB_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M51Master_filtered</title>
+            <link>slides/M51Master_filtered.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M51</description>
+            <media:description type="html">M51</media:description>
+            
+            <media:thumbnail url="thumbs/M51Master_filtered.jpg" width="140" height="93"/>
+            <media:content url="slides/M51Master_filtered.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/M51Master_filtered.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc7331a-Master_LRGB</title>
+            <link>slides/ngc7331a-Master_LRGB.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC7331</description>
+            <media:description type="html">NGC7331</media:description>
+            
+            <media:thumbnail url="thumbs/ngc7331a-Master_LRGB.jpg" width="140" height="97"/>
+            <media:content url="slides/ngc7331a-Master_LRGB.jpg" width="750" height="522"/>
+            
+            <guid isPermaLink="false">slides/ngc7331a-Master_LRGB.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M77_Master_V2</title>
+            <link>slides/M77_Master_V2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M77  NGC1055</description>
+            <media:description type="html">M77  NGC1055</media:description>
+            
+            <media:thumbnail url="thumbs/M77_Master_V2.jpg" width="140" height="93"/>
+            <media:content url="slides/M77_Master_V2.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/M77_Master_V2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M63</title>
+            <link>slides/M63.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M63</description>
+            <media:description type="html">M63</media:description>
+            
+            <media:thumbnail url="thumbs/M63.jpg" width="140" height="104"/>
+            <media:content url="slides/M63.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M63.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc4565_master</title>
+            <link>slides/ngc4565_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC4565</description>
+            <media:description type="html">NGC4565</media:description>
+            
+            <media:thumbnail url="thumbs/ngc4565_master.jpg" width="140" height="95"/>
+            <media:content url="slides/ngc4565_master.jpg" width="750" height="514"/>
+            
+            <guid isPermaLink="false">slides/ngc4565_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC4631_LRGB_Master</title>
+            <link>slides/NGC4631_LRGB_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC4631</description>
+            <media:description type="html">NGC4631</media:description>
+            
+            <media:thumbnail url="thumbs/NGC4631_LRGB_Master.jpg" width="140" height="97"/>
+            <media:content url="slides/NGC4631_LRGB_Master.jpg" width="750" height="521"/>
+            
+            <guid isPermaLink="false">slides/NGC4631_LRGB_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC2903_Master</title>
+            <link>slides/NGC2903_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC2903</description>
+            <media:description type="html">NGC2903</media:description>
+            
+            <media:thumbnail url="thumbs/NGC2903_Master.jpg" width="140" height="95"/>
+            <media:content url="slides/NGC2903_Master.jpg" width="750" height="511"/>
+            
+            <guid isPermaLink="false">slides/NGC2903_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC3184_LRGB_Master</title>
+            <link>slides/NGC3184_LRGB_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC3184</description>
+            <media:description type="html">NGC3184</media:description>
+            
+            <media:thumbnail url="thumbs/NGC3184_LRGB_Master.jpg" width="140" height="107"/>
+            <media:content url="slides/NGC3184_LRGB_Master.jpg" width="750" height="576"/>
+            
+            <guid isPermaLink="false">slides/NGC3184_LRGB_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M64L_MasterV2</title>
+            <link>slides/M64L_MasterV2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M64</description>
+            <media:description type="html">M64</media:description>
+            
+            <media:thumbnail url="thumbs/M64L_MasterV2.jpg" width="140" height="99"/>
+            <media:content url="slides/M64L_MasterV2.jpg" width="750" height="531"/>
+            
+            <guid isPermaLink="false">slides/M64L_MasterV2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC6946_Master</title>
+            <link>slides/NGC6946_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC6946</description>
+            <media:description type="html">NGC6946</media:description>
+            
+            <media:thumbnail url="thumbs/NGC6946_Master.jpg" width="140" height="93"/>
+            <media:content url="slides/NGC6946_Master.jpg" width="750" height="499"/>
+            
+            <guid isPermaLink="false">slides/NGC6946_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M101aMaster</title>
+            <link>slides/M101aMaster.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M101</description>
+            <media:description type="html">M101</media:description>
+            
+            <media:thumbnail url="thumbs/M101aMaster.jpg" width="140" height="104"/>
+            <media:content url="slides/M101aMaster.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M101aMaster.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC891_Master_V3</title>
+            <link>slides/NGC891_Master_V3.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC891</description>
+            <media:description type="html">NGC891</media:description>
+            
+            <media:thumbnail url="thumbs/NGC891_Master_V3.jpg" width="140" height="92"/>
+            <media:content url="slides/NGC891_Master_V3.jpg" width="750" height="493"/>
+            
+            <guid isPermaLink="false">slides/NGC891_Master_V3.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc253_Master_V4</title>
+            <link>slides/ngc253_Master_V4.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC253</description>
+            <media:description type="html">NGC253</media:description>
+            
+            <media:thumbnail url="thumbs/ngc253_Master_V4.jpg" width="140" height="108"/>
+            <media:content url="slides/ngc253_Master_V4.jpg" width="750" height="583"/>
+            
+            <guid isPermaLink="false">slides/ngc253_Master_V4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc3628-LRGB_V2_filtered</title>
+            <link>slides/ngc3628-LRGB_V2_filtered.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC3628</description>
+            <media:description type="html">NGC3628</media:description>
+            
+            <media:thumbnail url="thumbs/ngc3628-LRGB_V2_filtered.jpg" width="140" height="98"/>
+            <media:content url="slides/ngc3628-LRGB_V2_filtered.jpg" width="750" height="530"/>
+            
+            <guid isPermaLink="false">slides/ngc3628-LRGB_V2_filtered.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Arp94_Master_color</title>
+            <link>slides/Arp94_Master_color.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Arp94 (NGC3227+NGC3226)</description>
+            <media:description type="html">Arp94 (NGC3227+NGC3226)</media:description>
+            
+            <media:thumbnail url="thumbs/Arp94_Master_color.jpg" width="140" height="93"/>
+            <media:content url="slides/Arp94_Master_color.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/Arp94_Master_color.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M74_L_Master</title>
+            <link>slides/M74_L_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M74</description>
+            <media:description type="html">M74</media:description>
+            
+            <media:thumbnail url="thumbs/M74_L_Master.jpg" width="140" height="106"/>
+            <media:content url="slides/M74_L_Master.jpg" width="750" height="568"/>
+            
+            <guid isPermaLink="false">slides/M74_L_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M104LMaster</title>
+            <link>slides/M104LMaster.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M104</description>
+            <media:description type="html">M104</media:description>
+            
+            <media:thumbnail url="thumbs/M104LMaster.jpg" width="140" height="110"/>
+            <media:content url="slides/M104LMaster.jpg" width="750" height="593"/>
+            
+            <guid isPermaLink="false">slides/M104LMaster.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M65master</title>
+            <link>slides/M65master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M65</description>
+            <media:description type="html">M65</media:description>
+            
+            <media:thumbnail url="thumbs/M65master.jpg" width="140" height="104"/>
+            <media:content url="slides/M65master.jpg" width="750" height="562"/>
+            
+            <guid isPermaLink="false">slides/M65master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M100L_MasterV4</title>
+            <link>slides/M100L_MasterV4.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M 100</description>
+            <media:description type="html">M 100</media:description>
+            
+            <media:thumbnail url="thumbs/M100L_MasterV4.jpg" width="140" height="104"/>
+            <media:content url="slides/M100L_MasterV4.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/M100L_MasterV4.jpg</guid>
+        </item>
+        
+        <item>
+            <title>NGC925_Master</title>
+            <link>slides/NGC925_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC925</description>
+            <media:description type="html">NGC925</media:description>
+            
+            <media:thumbnail url="thumbs/NGC925_Master.jpg" width="140" height="104"/>
+            <media:content url="slides/NGC925_Master.jpg" width="750" height="558"/>
+            
+            <guid isPermaLink="false">slides/NGC925_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>ngc7479L_Master_2</title>
+            <link>slides/ngc7479L_Master_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC 7479</description>
+            <media:description type="html">NGC 7479</media:description>
+            
+            <media:thumbnail url="thumbs/ngc7479L_Master_2.jpg" width="140" height="111"/>
+            <media:content url="slides/ngc7479L_Master_2.jpg" width="749" height="599"/>
+            
+            <guid isPermaLink="false">slides/ngc7479L_Master_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>nc2683Master_2</title>
+            <link>slides/nc2683Master_2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>NGC2683</description>
+            <media:description type="html">NGC2683</media:description>
+            
+            <media:thumbnail url="thumbs/nc2683Master_2.jpg" width="140" height="99"/>
+            <media:content url="slides/nc2683Master_2.jpg" width="750" height="532"/>
+            
+            <guid isPermaLink="false">slides/nc2683Master_2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>M86LRGBMasterAA_filtered</title>
+            <link>slides/M86LRGBMasterAA_filtered.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>M86</description>
+            <media:description type="html">M86</media:description>
+            
+            <media:thumbnail url="thumbs/M86LRGBMasterAA_filtered.jpg" width="140" height="106"/>
+            <media:content url="slides/M86LRGBMasterAA_filtered.jpg" width="750" height="570"/>
+            
+            <guid isPermaLink="false">slides/M86LRGBMasterAA_filtered.jpg</guid>
+        </item>
+        
+        <item>
+            <title>holmesLRBBMaster</title>
+            <link>slides/holmesLRBBMaster.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>17P/Holmes</description>
+            <media:description type="html">17P/Holmes</media:description>
+            
+            <media:thumbnail url="thumbs/holmesLRBBMaster.jpg" width="140" height="104"/>
+            <media:content url="slides/holmesLRBBMaster.jpg" width="750" height="560"/>
+            
+            <guid isPermaLink="false">slides/holmesLRBBMaster.jpg</guid>
+        </item>
+        
+        <item>
+            <title>holmes1Master</title>
+            <link>slides/holmes1Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>17P/Holmes</description>
+            <media:description type="html">17P/Holmes</media:description>
+            
+            <media:thumbnail url="thumbs/holmes1Master.jpg" width="140" height="92"/>
+            <media:content url="slides/holmes1Master.jpg" width="749" height="497"/>
+            
+            <guid isPermaLink="false">slides/holmes1Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Lulin_Master</title>
+            <link>slides/Lulin_Master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Lulin / NGC2420</description>
+            <media:description type="html">Lulin / NGC2420</media:description>
+            
+            <media:thumbnail url="thumbs/Lulin_Master.jpg" width="102" height="140"/>
+            <media:content url="slides/Lulin_Master.jpg" width="548" height="749"/>
+            
+            <guid isPermaLink="false">slides/Lulin_Master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Hartley2Master_Koment_nachgfuehrt</title>
+            <link>slides/Hartley2Master_Koment_nachgfuehrt.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Komet 103P/Hartley</description>
+            <media:description type="html">Komet 103P/Hartley</media:description>
+            
+            <media:thumbnail url="thumbs/Hartley2Master_Koment_nachgfuehrt.jpg" width="140" height="93"/>
+            <media:content url="slides/Hartley2Master_Koment_nachgfuehrt.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/Hartley2Master_Koment_nachgfuehrt.jpg</guid>
+        </item>
+        
+        <item>
+            <title>C_2009_P_Master_Sterne_v2</title>
+            <link>slides/C_2009_P_Master_Sterne_v2.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>C/2009 P1 Garradd</description>
+            <media:description type="html">C/2009 P1 Garradd</media:description>
+            
+            <media:thumbnail url="thumbs/C_2009_P_Master_Sterne_v2.jpg" width="140" height="93"/>
+            <media:content url="slides/C_2009_P_Master_Sterne_v2.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/C_2009_P_Master_Sterne_v2.jpg</guid>
+        </item>
+        
+        <item>
+            <title>mond_2_viertel</title>
+            <link>slides/mond_2_viertel.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/mond_2_viertel.jpg" width="93" height="140"/>
+            <media:content url="slides/mond_2_viertel.jpg" width="503" height="750"/>
+            
+            <guid isPermaLink="false">slides/mond_2_viertel.jpg</guid>
+        </item>
+        
+        <item>
+            <title>mond_suedwest</title>
+            <link>slides/mond_suedwest.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <media:thumbnail url="thumbs/mond_suedwest.jpg" width="140" height="108"/>
+            <media:content url="slides/mond_suedwest.jpg" width="617" height="477"/>
+            
+            <guid isPermaLink="false">slides/mond_suedwest.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mofi_master</title>
+            <link>slides/Mofi_master.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Mondfinsternis 16.8.2008</description>
+            <media:description type="html">Mondfinsternis 16.8.2008</media:description>
+            
+            <media:thumbnail url="thumbs/Mofi_master.jpg" width="140" height="108"/>
+            <media:content url="slides/Mofi_master.jpg" width="750" height="579"/>
+            
+            <guid isPermaLink="false">slides/Mofi_master.jpg</guid>
+        </item>
+        
+        <item>
+            <title>Mofi2011_Version3</title>
+            <link>slides/Mofi2011_Version3.html</link>
+            <pubDate>Sat, 22 Oct 2011 21:33:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Mondfinsternis 15.6.2011</description>
+            <media:description type="html">Mondfinsternis 15.6.2011</media:description>
+            
+            <media:thumbnail url="thumbs/Mofi2011_Version3.jpg" width="140" height="93"/>
+            <media:content url="slides/Mofi2011_Version3.jpg" width="750" height="500"/>
+            
+            <guid isPermaLink="false">slides/Mofi2011_Version3.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>
