@@ -10,7 +10,7 @@
 <channel>
 	<title>kantorei &#8211; Leonfeldner Kantorei</title>
 	<atom:link href="http://10.0.0.137/author/kantorei/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/wp/</link>
 	<description>Singen beflügelt die Seele</description>
 	<lastBuildDate>Wed, 07 Sep 2022 07:10:30 +0000</lastBuildDate>
 	<language>de-AT</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Hallo Welt!</title>
-		<link>/hallo-welt/</link>
-					<comments>/hallo-welt/#comments</comments>
+		<link>/wp/hallo-welt/</link>
+					<comments>/wp/hallo-welt/#comments</comments>
 		
 		<dc:creator><![CDATA[kantorei]]></dc:creator>
 		<pubDate>Wed, 07 Sep 2022 07:10:30 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/wp/?p=1</guid>
 
 					<description><![CDATA[Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!]]></description>
 										<content:encoded><![CDATA[
 <p>Willkommen bei WordPress. Dies ist dein erster Beitrag. Bearbeite oder lösche ihn und beginne mit dem Schreiben!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hallo-welt/feed/</wfw:commentRss>
+					<wfw:commentRss>/wp/hallo-welt/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

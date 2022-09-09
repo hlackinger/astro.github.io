@@ -9,7 +9,7 @@
 	<title>
 	Kommentare zu: Hallo Welt!	</title>
 	<atom:link href="http://10.0.0.137/hallo-welt/feed/" rel="self" type="application/rss+xml" />
-	<link>/hallo-welt/</link>
+	<link>/wp/hallo-welt/</link>
 	<description>Singen beflügelt die Seele</description>
 	<lastBuildDate>Wed, 07 Sep 2022 07:10:30 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Von: A WordPress Commenter		</title>
-		<link>/hallo-welt/#comment-1</link>
+		<link>/wp/hallo-welt/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 07 Sep 2022 07:10:30 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/wp/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
