@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Leonfeldner Kantorei</title>
-	<atom:link href="http://10.0.0.137/feed/" rel="self" type="application/rss+xml" />
+	<title>Allgemein &#8211; Leonfeldner Kantorei</title>
+	<atom:link href="http://10.0.0.137/category/allgemein/feed/" rel="self" type="application/rss+xml" />
 	<link>/wp/</link>
 	<description>Singen beflügelt die Seele</description>
 	<lastBuildDate>Mon, 12 Sep 2022 12:06:54 +0000</lastBuildDate>
@@ -20,48 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Probenstart 8.9.2022</title>
-		<link>/wp/probenstart-8-9-2022/</link>
-		
-		<dc:creator><![CDATA[kantorei]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 12:05:43 +0000</pubDate>
-				<category><![CDATA[Aktuelles]]></category>
-		<guid isPermaLink="false">/wp/?p=157</guid>
-
-					<description><![CDATA[Am 8.9.2022 war Probenbeginn für unsere Adventkonzerte gemeinsam mit dem Ensemble Castor am 3.12. Im Schloss Bernau bei Fischlham und am 4.12. in der Pfarrkirche Oberneukirchen, Will Mason hat ein wunderschönes Programm zusammengestellt.]]></description>
-										<content:encoded><![CDATA[
-<p>Am 8.9.2022 war Probenbeginn für unsere Adventkonzerte gemeinsam mit dem Ensemble Castor am 3.12. Im Schloss Bernau bei Fischlham und am 4.12. in der Pfarrkirche Oberneukirchen, Will Mason hat ein wunderschönes Programm zusammengestellt.</p>
-
-
-
-<figure class="wp-block-image size-full"><img width="951" height="540" src="/wp/wp-content/uploads/ProbeWaxenberg.jpg" alt="" class="wp-image-163" srcset="/wp/wp-content/uploads/ProbeWaxenberg.jpg 951w, /wp/wp-content/uploads/ProbeWaxenberg-300x170.jpg 300w, /wp/wp-content/uploads/ProbeWaxenberg-768x436.jpg 768w, /wp/wp-content/uploads/ProbeWaxenberg-500x284.jpg 500w" sizes="(max-width: 951px) 100vw, 951px" /></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Konzert in Gunskirchen am 11.6.2022</title>
-		<link>/wp/konzert-in-gunskirchen/</link>
-		
-		<dc:creator><![CDATA[kantorei]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 12:03:18 +0000</pubDate>
-				<category><![CDATA[Aktuelles]]></category>
-		<guid isPermaLink="false">/wp/?p=73</guid>
-
-					<description><![CDATA[Bei den Beispielsweisen 5 am 11.6.2022 in Gunskirchen kam es zu einem Treffen vieler Chöre aus dem In- und Ausland. Dabei hatten auch die Damen der Leonfeldner Kantorei einen Soloauftritt als Bad Ladies]]></description>
-										<content:encoded><![CDATA[
-<p>Bei den Beispielsweisen 5 am 11.6.2022 in Gunskirchen kam es zu einem Treffen vieler Chöre aus dem In- und Ausland.  Dabei hatten auch die Damen der Leonfeldner Kantorei einen Soloauftritt als Bad Ladies</p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" width="879" height="600" src="/wp/wp-content/uploads/BadLadiesGunskirchen.jpg" alt="" class="wp-image-161" srcset="/wp/wp-content/uploads/BadLadiesGunskirchen.jpg 879w, /wp/wp-content/uploads/BadLadiesGunskirchen-300x205.jpg 300w, /wp/wp-content/uploads/BadLadiesGunskirchen-768x524.jpg 768w, /wp/wp-content/uploads/BadLadiesGunskirchen-440x300.jpg 440w" sizes="(max-width: 879px) 100vw, 879px" /></figure>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Konzerte in Bad Ischl 26.3.2022  und in Rohrbach am 3.4.2022</title>
 		<link>/wp/konzerte-in-bad-ischl-26-3-2022-und-in-rohrbach-am-3-4-2022/</link>
 		
@@ -72,7 +30,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img loading="lazy" width="743" height="749" src="/wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach.jpg" alt="" class="wp-image-166" srcset="/wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach.jpg 743w, /wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach-298x300.jpg 298w, /wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach-150x150.jpg 150w" sizes="(max-width: 743px) 100vw, 743px" /></figure>
+<figure class="wp-block-image size-full"><img width="743" height="749" src="/wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach.jpg" alt="" class="wp-image-166" srcset="/wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach.jpg 743w, /wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach-298x300.jpg 298w, /wp/wp-content/uploads/Pressebericht_Konzerte_BadIschl_Rohrbach-150x150.jpg 150w" sizes="(max-width: 743px) 100vw, 743px" /></figure>
 
 
 

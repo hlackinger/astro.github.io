@@ -471,7 +471,7 @@ input[type=number] {
 	padding: 3px;
 }
 input#s {
-	background: url(/wp-content/themes/twentyeleven/images/search.png) no-repeat 5px 6px;
+	background: url(/wp/wp-content/themes/twentyeleven/images/search.png) no-repeat 5px 6px;
 	-moz-border-radius: 2px;
 	border-radius: 2px;
 	font-size: 14px;
@@ -1063,7 +1063,7 @@ object {
 
 /* Comments link */
 .entry-header .comments-link a {
-	background: #eee url(/wp-content/themes/twentyeleven/images/comment-bubble.png) no-repeat;
+	background: #eee url(/wp/wp-content/themes/twentyeleven/images/comment-bubble.png) no-repeat;
 	color: #666;
 	font-size: 13px;
 	font-weight: normal;
@@ -2104,7 +2104,7 @@ section.ephemera .entry-title a span {
 	top: 0;
 }
 .commentlist > li:before {
-	content: url(/wp-content/themes/twentyeleven/images/comment-arrow.png);
+	content: url(/wp/wp-content/themes/twentyeleven/images/comment-arrow.png);
 	left: -21px;
 	position: absolute;
 }
@@ -2155,7 +2155,7 @@ a.comment-reply-link > span {
 .commentlist > li.bypostauthor .comment-meta a:hover {
 }
 .commentlist > li.bypostauthor:before {
-	content: url(/wp-content/themes/twentyeleven/images/comment-arrow-bypostauthor.png);
+	content: url(/wp/wp-content/themes/twentyeleven/images/comment-arrow-bypostauthor.png);
 }
 
 /* Post Author threaded comments */
