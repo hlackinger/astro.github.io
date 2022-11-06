@@ -1,0 +1,78 @@
+/* h1 und h2 anpassen */
+
+a:link {color:#666666; text-decoration:none;}
+a:active {color:#aa0000; text-decoration:underline;}
+a:visited {color:#666666; text-decoration:none;}
+a:hover {color:#aa0000; text-decoration:underline;}
+
+body {
+margin-top:5px;
+margin-bottom:5px;
+margin-left:5px;
+margin-right:5px;
+margin:5px;
+background:#ffffff;}
+
+form {
+margin-top:0px;
+margin-bottom:0px;
+margin-left:0px;
+margin-right:0px;
+margin:0px;
+}
+
+input, textarea, select {
+font-family:tahoma,arial,helvetica,sans-serif;
+font-size:8pt;
+}
+
+body, td {
+font-family:arial,helvetica,sans-serif;
+font-size:10pt;
+color:#000000;
+}
+
+#red {color:#aa0000;}
+#grey {color:#888888;}
+
+
+
+#guestbooktable {background:#666666;}
+
+#guestbooktitle {
+font-family:arial,helvetica,sans-serif;
+font-size:10pt;
+font-weight:bold;
+background:#dddddd;
+vertical-align:top;
+}
+
+#guestbooktitleinfo {
+font-family:tahoma,arial,helvetica,sans-serif;
+font-size:8pt;
+color:#888888;
+vertical-align:middle;
+}
+
+#guestbookcell {
+font-family:arial,helvetica,sans-serif;
+font-size:9pt;
+background:#eeeeee;
+vertical-align:top;
+}
+
+#guestbookinfo {
+font-family:tahoma,arial,helvetica,sans-serif;
+font-size:8pt;
+color:#444444;
+background:#dddddd;
+vertical-align:center;
+}
+
+#guestbookinfolight {
+font-family:tahoma,arial,helvetica,sans-serif;
+font-size:8pt;
+color:#888888;
+background:#dddddd;
+vertical-align:top;
+}
